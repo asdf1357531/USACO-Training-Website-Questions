@@ -1,0 +1,30 @@
+/* Use the slash-star style comments or the system won't see your
+   identification information */
+/*
+ID: xiaole.1
+LANG: JAVA
+TASK: test
+*/
+import java.io.*;
+import java.util.*;
+
+class test {
+    public static void main (String [] args) throws IOException {
+        // Use BufferedReader rather than RandomAccessFile; it's much faster
+        //File f=new File("src/icecreamTopping.txt");
+        //System.out.println(f.getAbsolutePath());
+
+        BufferedReader f = new BufferedReader(new FileReader("src/ride.in"));
+        // input file name goes above
+        // st.out")));
+        // Use StringTokenizer vs. readLine/split -- lots faster
+        StringTokenizer st = new StringTokenizer(f.readLine());
+        // Get line, break into tokens
+        int i1 = Integer.parseInt(st.nextToken());    // first integer
+        int i2 = Integer.parseInt(st.nextToken());    // second integer
+        //out.println(i1+i2);                           // output result
+        //out.close();                                  // close the output file
+
+
+    }
+}
