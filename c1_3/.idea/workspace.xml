@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d7c8a01-bc3f-45db-9086-1620364545f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dualpal.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dualpal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dualpal.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/milk2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/milk2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/milk2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namenum.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namenum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namenum.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palsquare.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palsquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palsquare.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transform.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transform.out" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JO1ZPtzDztCzWt8o3M575hiimE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.dualpal">
+    <configuration name="dualpal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dualpal" />
+      <module name="c1_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="milk2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="milk2" />
+      <module name="c1_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="transform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="transform" />
+      <module name="c1_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dualpal" />
+        <item itemvalue="Application.transform" />
+        <item itemvalue="Application.milk2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d7c8a01-bc3f-45db-9086-1620364545f2" name="Changes" comment="" />
+      <created>1671934370790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671934370790</updated>
+    </task>
+    <servers />
+  </component>
+</project>
